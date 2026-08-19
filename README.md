@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SamahAli10/SamahAli10/refs/heads/main/1787130504973.png" alt="human&ai" width="100%" />
+<p align="right"><img src="https://raw.githubusercontent.com/SamahAli10/SamahAli10/refs/heads/main/1787130504973.png" alt="human&ai" width="50%" /></p>
 
 
 
