@@ -1,4 +1,3 @@
-<p align="right"><img src="https://raw.githubusercontent.com/SamahAli10/SamahAli10/refs/heads/main/1787130504973.png" alt="human&ai" width="50%" /></p>
 
 
 
@@ -7,13 +6,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samah-ali10&label=Profile%20views&color=0e75b6&style=flat" alt="samah-ali10" /> </p>
 
+👨‍💻 About Me
+
+<picture>
+  <img align="right" src="https://raw.githubusercontent.com/SamahAli10/SamahAli10/refs/heads/main/1787130504973.png" width="350px">
+</picture> 
+     Junior programmer with exemplary skills in writing clean, readable and testable code. Works independently or in team setting. Willing to learn and aspiring to enhance skills and be part of sustainable workforce. 
+<br>
+
+- 🔥 Very interested in AI Technologies.
+
 - 🌱 I’m currently learning **Machine learning with FlyRank internship**
 
 - 📫 How to reach me **Samah.ali5243493@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/samah-ali-2780ab133" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samah ali" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samah-ali-2780ab133" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samah ali" height="30" width="40" /></a>
 <a href="https://fb.com/samah ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samah ali" height="30" width="40" /></a>
 </p>
 
