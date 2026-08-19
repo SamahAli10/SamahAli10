@@ -31,5 +31,5 @@
 
 <h2 align="center"> Just Remember</h2>
 <picture>
-  <img align="center" src="https://github.com/SamahAli10/SamahAli10/blob/main/images.png" width="350px">
+<p align="center">  <img src="https://github.com/SamahAli10/SamahAli10/blob/main/images.png" width="350px"></p>
 </picture> 
