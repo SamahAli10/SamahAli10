@@ -1,3 +1,7 @@
+<img src="https://raw.githubusercontent.com/SamahAli10/SamahAli10/refs/heads/main/1787130504973.png" alt="human&ai" width="100%" />
+
+
+
 <h1 align="center">Hi 👋, I'm Samah Ali</h1>
 <h3 align="center">Software developer</h3>
 
